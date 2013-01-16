@@ -1,10 +1,5 @@
 '''These Bylaws Have Been Formally Adopted and are Currently Applicable. Please Don't Make Changes to the Body of the Bylaws. At All Times Please Refer [http://wiki.hacklab.to/index.php?title=Bylaws&oldid=3204 Here] for the Canonical Revision.'''
 
-<s>release candidate 2, only minor tweaks:
-* no specific voting method other than requiring it to be secret ballot
-* meetings changed from weekly to at least bi-weekly to meet current status
-* fiscal year start set for sep 1, first month after our first elections</s>
-
 [[BylawsReferencesAndLinks]]
 = Official Bylaws =
 == Name, Information, and Interpretation ==
