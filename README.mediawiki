@@ -1,0 +1,10 @@
+This repository is for Hacklab's bylaws. By making it a git repository, we hope to facilitate more complicated ammendements.
+
+Pull requests to the master branch of hacklabto's github repository for this will only be merged in compliance with Amendments (1): "These by-laws may be amended by a two-third vote of
+members present at any Annual or Special member meeting..."
+
+The [http://wiki.hacklab.to/index.php?title=Bylaws Hacklab's wiki article] remains the canonical version and official reference for our bylaws.
+
+Hacklab's Anti-Harassment Policy is also included in this repository since it was adopted into the bylaws as of Meeting-2010-06-20-AGM.
+
+
