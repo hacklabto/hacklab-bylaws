@@ -1,0 +1,86 @@
+This policy has been adopted by the Hacklab Board of Directors at the board meeting on [[Meeting-2010-05-10-board|2010-05-10]]
+
+= Statement =
+
+Hacklab Club Toronto's (hereafter referred to as Hacklab) Commitment:
+Hacklab is committed to:
+* provide an inclusive labspace environment free of harassment, including sexual harassment,
+* support the productivity, personal goals, dignity and self respect of all its members, potential members and 
+* promote sensitivity to individual differences.
+
+Hacklab will make every reasonable effort to ensure that no member is subjected to harassment in the labspace. In particular, Hacklab accepts responsibility to ensure that its policies, practices, membership arrangements and facilities do not have unlawful effects on those individuals protected under the Canadian Human Rights Act.
+
+Further, Hacklab will not tolerate any behaviour, including from guests and other individuals with whom Hacklab has interactions, that conflicts with the spirit or intent of the Canadian Human Rights Act, or any other human rights laws that are applicable to Hacklab’s operations.
+
+= Description =
+The Hacklab considers all forms of harassment, including sexual harassment, to be unacceptable; will not tolerate its occurrence; and will make every reasonable effort to ensure that no member is subjected to it.
+
+= Definitions =
+
+== Prohibited Grounds ==
+*Age  	
+*Family status
+*Race 	
+*Marital status
+*Colour 	
+*Sexual Orientation
+*Religion 	
+*Pardoned conviction
+*National or Ethnic Origin 	
+*Mental or physical disability
+*Sex (including pregnancy and childbirth)
+
+== Harassment ==
+
+Any conduct, comment, gesture or contact based on any of the prohibited grounds, listed above, that is likely to cause offence or humiliation to any member or guest.
+
+Harassment will have taken place if it is known or ought to have reasonably been known that the behaviour in question was unwelcome or inappropriate in the labspace.
+	 
+=== Examples ===
+Examples include:
+* unwelcome remarks, jokes or taunts about an individual’s racial background, colour, place of birth, citizenship or ancestry (or other prohibited ground);
+* display of derogatory, racist or offensive pictures or material
+* unwanted intrusion into an individual's personal items or computer systems
+
+== Sexual Harassment ==
+As defined in the Canada Labour Code:
+
+<blockquote>
+any conduct, comment, gesture or contact of a sexual nature that is likely to 
+cause offence or humiliation to any employee; or that might, on reasonable grounds, 
+be perceived by that employee as placing a condition of a sexual nature on employment 
+or on any opportunity for training or promotion.
+</blockquote>
+
+Sexual harassment, which is a specific form of harassment, is generally comprised of objectionable and offensive behaviour that may occur once or repeatedly.  
+
+=== Examples ===
+* unwelcome advances, flirtations, jokes or propositions of a sexual nature;
+* unwanted requests for sexual favours by a person in a position to confer, grant or deny a benefit or advancement;
+* sexually degrading words, images or other material;
+* conduct of a sexual nature, including leering, pinching, touching and patting.
+
+= Mechanisms for Redress =
+Where remedial action is recommended, it will be implemented as soon as reasonably possible after the conclusion of a thorough internal investigation.  Depending on the circumstances, there may also be longer-term initiatives, such as the development and implementation of Corporate or Lab wide education and training activities.
+
+= Discipline and Reprisals =
+
+If a member raises a concern relating to harassment, in good faith, s/he will not be subject to retaliation nor reprisals for bringing forward his or her concern. Therefore, it is strictly prohibited to threaten or take action against a member for invoking this policy and/or for participating in the related investigation process.
+
+= Confidentiality =
+All concerns relating to harassment, including sexual harassment, will be dealt with as confidentially as reasonably possible.
+
+A member’s identity, or the circumstances regarding any concern or complaint, will not be disclosed unless disclosure is necessary for the purposes of conducting an investigation or for taking disciplinary action.
+
+= Chain of Communication for Addressing Concerns or Complaints =
+
+Members can address concerns or complaints relating to harassment based on a prohibited ground, by using the following chain of communication:
+
+#If it is appropriate, the member should tell the person who is acting in a harassing manner that it is offensive and request that s/he immediately stop. In some cases, this informal discussion may resolve the problem.
+#If this is inappropriate or if the informal discussion is not resolved, then the member should advise the Hacklab President
+#The member will then be asked to prepare a written complaint, outlining the nature of the allegations and any important details or facts (including the name(s) of the alleged harasser(s), witnesses, dates and location of the incidents) that may assist the subsequent investigation.
+#Upon receipt of this written complaint, the President will immediately acknowledge its receipt to the member and will meet with the member as soon as reasonably possible.  
+#The President will exercise its discretion as to whether an internal investigation is warranted and to determine its scope. Where appropriate, the President may conduct an investigation even if the member refuses to submit a written complaint.
+
+[[category: Members]][[category: Guests]][[category: Governance]]
+
