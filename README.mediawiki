@@ -1,10 +1,18 @@
 This repository is for Hacklab's bylaws. By making it a git repository, we hope to facilitate more complicated amendments.
 
-Pull requests to the master branch of hacklabto's github repository for this will only be merged in compliance with Amendments (1): "These by-laws may be amended by a two-third vote of
+Pull requests to the master branch of hacklabto's github repository for this will only be merged in compliance with [https://github.com/hacklabto/hacklab-bylaws/blob/master/Bylaws.mediawiki#amendments Amendments] (1): "These by-laws may be amended by a two-third vote of
 members present at any Annual or Special member meeting..." Please make proposed amendments as branches in your personal repository and submit a pull request for consideration at the next AGM.
 
 The [http://wiki.hacklab.to/index.php?title=Bylaws Hacklab's wiki article] remains the canonical version and official reference for our bylaws.
 
-Hacklab's Anti-Harassment Policy is also included in this repository since it was adopted into the bylaws as of Meeting-2010-06-20-AGM.
+Hacklab's Anti-Harassment Policy is also included in this repository since it was adopted into the bylaws as of [http://wiki.hacklab.to/index.php?title=Meeting-2010-06-20-AGM Meeting-2010-06-20-AGM].
 
+=Bylaws References and Links=
 
+*[http://bsa.canadabusiness.ca/gol/bsa/site.nsf/en/su06817.html#a2/ some general links and potentially interesting stuff]
+
+*[http://dynamiclawyers.com/DL_blog/ontario-not-for-profit-corporations-what-members-should-know/19/ ontario-not-for-profit-corporations-what-members-should-know]
+
+*[http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90c38_e.htm/ The Ontario Corporations Act]
+
+*[[Hacker Foundation Bylaws]]
