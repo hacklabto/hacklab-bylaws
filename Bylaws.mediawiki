@@ -1,4 +1,4 @@
-'''These Bylaws Have Been Formally Adopted and are Currently Applicable. Please Don't Make Changes to the Body of the Bylaws. At All Times Please Refer [http://wiki.hacklab.to/index.php?title=Bylaws&oldid=3204 Here] for the Canonical Revision.'''
+'''These Bylaws Have Been Formally Adopted and are Currently Applicable. Please Don't Make Changes to the Body of the cannonical Bylaws. At All Times Please Refer [http://wiki.hacklab.to/index.php?title=Bylaws&oldid=3204 Here] for the Canonical Revision. Please make proposed changes on branches of your personal respository and submit pull requests for consideration at an AGM.'''
 
 [[BylawsReferencesAndLinks]]
 = Official Bylaws =
