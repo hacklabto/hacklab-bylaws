@@ -82,7 +82,8 @@ Members can address concerns or complaints relating to harassment based on a pro
 #Upon receipt of this written complaint, the Contacted Officer will immediately acknowledge its receipt to the member and will meet with the member as soon as reasonably possible.
 #The Contacted Officer will raise the issue with Hacklab's Board of Directors. In accordance with Hacklab's conflict of interest policies, any Director with a conflict of interest or an appearance of a conflict of interest, will excuse themselves.
 #The Board will exercise its discretion as to whether an internal investigation is warranted and to determine its scope. Where appropriate, the Board may conduct an investigation even if the member refuses to submit a written complaint.
-#If the Board chooses to conduct an investigation, it will select an impartial (both in fact and appearance) individual to conduct it from Hacklab's Directors and Officers.
+#If the Board chooses to conduct an investigation, it will select an impartial (both in fact and appearance) individual (the "Investigator") to conduct it from Hacklab's Directors and Officers.
+#The Investigator will report to the Board upon completion of their investigation. At this point the Board can consider implementing remedial action as outlined in "Mechanisms for Redress".
 
 [[category: Members]][[category: Guests]][[category: Governance]]
 
