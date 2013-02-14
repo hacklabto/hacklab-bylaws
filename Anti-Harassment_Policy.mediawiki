@@ -79,10 +79,13 @@ A member’s identity, or the circumstances regarding any concern or complaint, 
 Members can address concerns or complaints relating to harassment based on a prohibited ground, by using the following chain of communication:
 
 #If it is appropriate, the member should tell the person who is acting in a harassing manner that it is offensive and request that s/he immediately stop. In some cases, this informal discussion may resolve the problem.
-#If this is inappropriate or if the informal discussion is not resolved, then the member should advise the Hacklab President
+#If this is inappropriate or if the informal discussion is not resolved, then the member should advise an Officer or Director of Hacklab (the "Contacted Officer").
 #The member will then be asked to prepare a written complaint, outlining the nature of the allegations and any important details or facts (including the name(s) of the alleged harasser(s), witnesses, dates and location of the incidents) that may assist the subsequent investigation.
-#Upon receipt of this written complaint, the President will immediately acknowledge its receipt to the member and will meet with the member as soon as reasonably possible.  
-#The President will exercise its discretion as to whether an internal investigation is warranted and to determine its scope. Where appropriate, the President may conduct an investigation even if the member refuses to submit a written complaint.
+#Upon receipt of this written complaint, the Contacted Officer will immediately acknowledge its receipt to the member and will meet with the member as soon as reasonably possible.
+#The Contacted Officer will raise the issue with Hacklab's Board of Directors. In accordance with Hacklab's conflict of interest policies, any Director with a conflict of interest or an appearance of a conflict of interest, will excuse themselves.
+#The Board will exercise its discretion as to whether an internal investigation is warranted and to determine its scope. Where appropriate, the Board may conduct an investigation even if the member refuses to submit a written complaint.
+#If the Board chooses to conduct an investigation, it will select an impartial (both in fact and appearance) individual (the "Investigator") to conduct it.
+#The Investigator will report to the Board upon completion of their investigation. At this point the Board can consider implementing remedial action as outlined in "Mechanisms for Redress".
 
 [[category: Members]][[category: Guests]][[category: Governance]]
 
