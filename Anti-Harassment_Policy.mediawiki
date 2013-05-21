@@ -62,11 +62,11 @@ Sexual harassment, which is a specific form of harassment, is generally comprise
 
 = Mechanisms for Immediate Intervention =
 
-Members of Hacklab are empowered, as agents of Hacklab, to ask anyone to leave the Lab, where they believe a severe situation warrants it. Because there is an overwhelming interest in rapidly diffusing dangerous situations, a Member's decision to use this power will not be debated at the time but rather immediately enforced. A Member who has used this power must send a description of events to the Board (who will submit an anonymised version to the Members) or, if they prefer, directly to the Membership. This must be done as soon as possible (to a maximum of 24 hours). At this point any concerns about the propriety of this course of action can be addressed.
+Members of Hacklab are empowered, as agents of Hacklab, to ask anyone to leave the Lab, where they believe a severe situation warrants it. Because there is an overwhelming interest in rapidly diffusing dangerous situations, a Member's decision to use this power will not be debated at the time but rather immediately enforced. A Member who has used this power must send a description of events to the Board (which may exercise discretion in informing the membership, to protect those involved, especially where requested by an involved party). This must be done as soon as possible (to a maximum of 24 hours). At this point any concerns about the propriety of this course of action can be addressed.
 
-In milder cases, Members should consider simply telling people they will invoke this policy if problematic behavior does not stop immediately and exercise discretion. (They should also write to the Board or Membership if they need to use this threat of the policy.)
+In milder cases, Members should consider simply telling people they will invoke this policy if problematic behavior does not stop immediately and exercise discretion. (They should also write to the Board if they need to use this threat of the policy.)
 
-Members should use this power where they deem it necessary to secure the safety of Hacklab or prevent harassment, and solely for these purposes. This includes situations where they are the victim. It is absolutely inappropriate to use it to use this mechanism as a tool for leverage in other situations.
+Members should use this power where they deem it necessary to secure the safety of Hacklab or prevent harassment, and solely for these purposes. This includes situations where they are the victim. It is absolutely inappropriate to use this mechanism as a tool for leverage in other situations.
 
 If two members both believe the other should leave, both will leave. The propriety of their actions can be considered at a later point.
 
