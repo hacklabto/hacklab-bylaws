@@ -29,6 +29,7 @@
 # Members of the Board shall see that all necessary records of the corporation required by the by-laws of the corporation or by any applicable statute or law are regularly and properly kept. 
 # If a vacancy on the Board occurs within 3 months of a general meeting, no by-election is necessary, otherwise one will be held within one month of the seat being vacated.
 # The Board may take action on urgent items without a meeting given unanimous signed consent.
+# The Board shall strive to be transparent to the membership, being open with all information save extraordinary circumstances. Openness shall be the Board's default position.
 
 == Officers ==
 
