@@ -5,8 +5,8 @@
 == Name, Information, and Interpretation ==
 
 # The name of the corporation shall be Hacklab Toronto Club Inc., as indicated on the Letters Patent with the corporation number 1776183.
-# The address of the corporation is 170A Baldwin St. Toronto ON M5T 1L8.
-# For the purposes of these bylaws, the term Hacklab shall refer to the corporation.  The term Lab shall refer to the physical space at 170A Baldwin St.
+# The address of the corporation is 1266 Queen Street West, Unit 6, Toronto, ON, M6K 1L3.
+# For the purposes of these bylaws, the term Hacklab shall refer to the corporation.  The term Lab shall refer to the physical space at 1266 Queen Street West, Unit 6
 # The address of the corporation can be changed only by amendment of these bylaws and not otherwise.
 
 == Board of Directors ==
@@ -46,7 +46,7 @@
 ## Any vacancy of an officer's position shall be filled by the Board of Directors.
 ## In the event of a vacancy in any office other than that of President, such vacancy may be filled temporarily by appointment by the President until such time as the Board shall fill the vacancy.
 ## Vacancies occurring in offices of officers appointed at the discretion of the board may or may not be filled as the board shall determine.
-# Banking will be carried out on a two-to-sign basis, with the treasurer and any other officer signing.
+# Banking will be carried out on a two-to-sign basis, with any two officers and/or directors signing.
 
 == Members ==
 
@@ -59,11 +59,12 @@
 # Membership shall be limited to persons interested in furthering the objects of the organization.
 # Members have as privileges:
 ## Physical access to the Lab by whatever means are currently in use
-## A storage bin with their name on it
+## A storage bin, shelf, or other area with their name on it
 ## The right to store a reasonable amount of equipment at the space, subject to the conditions laid out in the most recent approved revision of the Equipment Policy on the wiki
 # Members have as responsibilities:
 ## ensuring that they are subscribed to the members email list.
-# Members may resign by written notice to the Secretary, or by not paying dues.
+## ensuring they have signed a copy of the current version of the Hacklab waiver
+# Members may resign by written notice to memberadmin@hacklab.to, or by not paying dues.
 # Upon resignation, members will be removed from the access list for the door, and unsubscribed from the member email list.  They may remain on the discussion list if they so choose.
 ## Former members will have three months to remove their belongings from the premises. If, after three months, the belongings have not been removed the belongings shall become property of the organization.
 # A majority of the board can vote to suspend the membership of a member, at which time their access to the space will also be suspended.
@@ -76,7 +77,7 @@
 
 == Meetings ==
 
-# Regular meetings of the membership shall be held on at least a bi-weekly basis to keep the members involved and informed in ongoing decisions involving the corporation.
+# Regular meetings of the membership shall be held on at least a quarterly basis to keep the members involved and informed in ongoing decisions involving the corporation.
 ## Announcements regarding changes to meeting date, time, or venue shall be made to the entire membership with a minimum of 48 hours notice.
 # Meetings of the Board shall be held on a monthly basis and additionally as requested by two or more members of the board.
 ## Announcements regarding changes to meeting date, time, or venue shall be made to the entire board with a minimum of 48 hours notice.
@@ -109,7 +110,7 @@
 
 == Fiscal Policies ==
 
-# The fiscal year of the board shall be September 1 to August 31.
+# The fiscal year of the board shall be January 1 to December 31.
 
 == Amendments ==
 
