@@ -5,8 +5,8 @@
 == Name, Information, and Interpretation ==
 
 # The name of the corporation shall be Hacklab Toronto Club Inc., as indicated on the Letters Patent with the corporation number 1776183.
-# The address of the corporation is 1266 Queen Street West, Unit 6, Toronto, ON, M6K 1L3.
-# For the purposes of these bylaws, the term Hacklab shall refer to the corporation.  The term Lab shall refer to the physical space at 1266 Queen Street West, Unit 6
+# The address of the corporation is 1677 St Clair Ave West, Toronto, ON, M6N 1H9.
+# For the purposes of these bylaws, the term Hacklab shall refer to the corporation.  The term Lab shall refer to the physical space at 1677 St Clair Ave West
 # The address of the corporation can be changed only by amendment of these bylaws and not otherwise.
 
 == Board of Directors ==
