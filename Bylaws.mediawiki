@@ -1,4 +1,4 @@
-'''These Bylaws Have Been Formally Adopted and are Currently Applicable. Please Don't Make Changes to the Body of the cannonical Bylaws. At All Times Please Refer [http://wiki.hacklab.to/index.php?title=Bylaws&oldid=3204 Here] for the Canonical Revision. Please make proposed changes on branches of your personal respository and submit pull requests for consideration at an AGM.'''
+'''These Bylaws Have Been Formally Adopted and are Currently Applicable as of September 24, 2023. Please Don't Make Changes to the Body of the canonical Bylaws. At All Times Please Refer [https://wiki.hacklab.to/Bylaws Here] for the Canonical Revision. Please make proposed changes on branches of your personal repository and submit pull requests for consideration at an AGM.'''
 
 [[BylawsReferencesAndLinks]]
 = Official Bylaws =
@@ -19,13 +19,15 @@
 # Members of the Board shall have been members of the corporation for a minimum of six consecutive months before they are eligible.
 # Members of the Board will be elected by the membership by secret ballot.
 # Board members shall serve terms of two years.
+# Board members must notify the board of an expected absence from any scheduled board meeting.
+
 # Board members shall be removed from the board:
-## if at a special general meeting of members, a resolution is passed by two-thirds (2/3) of the members present at the meeting that he or she be removed from office;
-## if the board member misses two consecutive board meetings without justification;
-## if a board member has resigned from office by delivering a written resignation to the secretary of the corporation;
+## if at a special general meeting of members, a resolution is passed by two-thirds (2/3) of the members present at the meeting that they be removed from office;
+## if a board member has resigned from office by delivering a written resignation to the Secretary of the corporation;
 ## by a 4/5 vote of the board (not including the board member being voted on);
-## if he or she is found by a court to be of unsound mind;
-## on death;
+## if they are found by a court to be of unsound mind;
+## on death.
+
 # Members of the Board shall see that all necessary records of the corporation required by the by-laws of the corporation or by any applicable statute or law are regularly and properly kept. 
 # If a vacancy on the Board occurs within 3 months of a general meeting, no by-election is necessary, otherwise one will be held within one month of the seat being vacated.
 # The Board may take action on urgent items without a meeting given unanimous signed consent.
@@ -33,42 +35,49 @@
 == Officers ==
 
 # The officers of the corporation are members who are responsible for specific duties relating to the running of the corporation.  They are appointed by and accountable to the board of directors.
-# The officers of the corporation shall consist of a President, Secretary, Treasurer, and Operations Manager nominated by the Board, as well as any other officers determined by the Board.
-## President: chairs board meetings (if they are a director), responsible for public-facing communication (ex. info@, IRC channel), appoints people to non-officer roles, and prepare reports on everything aside from finances to the board at least monthly 
-## Secretary: takes minutes at meetings, responsible for other internal communication (ex. wiki and mailing lists)
-## Treasurer: keep record of the organization's budget, accept membership fees, pay bills, files taxes, and prepares financial reports to the board at least monthly
-## Operations Manager: responsible for managing the physical space, safety and security, and the membership database
+# The officers of the corporation shall consist of a Board Chair, Secretary, and Treasurer nominated by the Board, as well as any other officers determined by the Board.
+## Board Chair: chairs board meetings, and appoints people to non-officer roles 
+## Secretary: takes minutes at meetings, administers internal communication, and informs members of Hacklab news
+## Treasurer: keeps record of the organization's budget, accepts membership fees, pays bills, files taxes, prepares financial reports to the board at least monthly, and maintains the list of active members
+
 # Officers will serve a term of one year.
 # Officers may be appointed by the board from among the members (including board members) in good standing and must maintain their good standing in order to remain officers.
 # Officers may be removed by the Board at any time, with or without cause.
-# Officers may resign at any time by giving written notice to the Board, the President, or the Secretary.
+# Officers may resign at any time by giving written notice to the Board Chair or the Secretary.
+
 # Vacancies of officers:
 ## Any vacancy of an officer's position shall be filled by the Board of Directors.
-## In the event of a vacancy in any office other than that of President, such vacancy may be filled temporarily by appointment by the President until such time as the Board shall fill the vacancy.
+## In the event of a vacancy in any office other than that of Board Chair, such vacancy may be filled temporarily by appointment by the Board Chair until such time as the Board shall fill the vacancy.
 ## Vacancies occurring in offices of officers appointed at the discretion of the board may or may not be filled as the board shall determine.
 # Banking will be carried out on a two-to-sign basis, with any two officers and/or directors signing.
 
 == Members ==
 
 # Membership in the organization confers certain rights and responsibilities regarding the space.
-# Membership is by invitation from an existing member.
-# Approval of a new member is contingent on their being no more than one specific objection to their membership.
+# Membership is by invitation from two (2) existing members.
+# Approval of a new member is contingent on there being no more than one specific objection to their membership.
 # For insurance and safety purposes, potential members may be subject to a background check.
 # The cost of membership is determined by the board.
-# Membership is payable on the 15th of the month for the subsequent month.
-# Membership shall be limited to persons interested in furthering the objects of the organization.
-# Members have as privileges:
+# Membership dues are payable in advance of each month.
+# Membership shall be limited to persons interested in furthering the objects ([[Letters Patent]]) of the organization.
+
+# In addition to the rights granted by the Ontario Not-for-profit Corporations Act (ONCA), members have as privileges:
 ## Physical access to the Lab by whatever means are currently in use
-## A storage bin, shelf, or other area with their name on it
-## The right to store a reasonable amount of equipment at the space, subject to the conditions laid out in the most recent approved revision of the Equipment Policy on the wiki
+## A storage bin, shelf, or other area assigned to them
+## The right to store a reasonable amount of equipment at the space, subject to the conditions laid out in the most recent revision of the Equipment Policy on the wiki, as approved by ordinary resolution of the members
+
 # Members have as responsibilities:
-## ensuring that they are subscribed to the members email list.
-## ensuring they have signed a copy of the current version of the Hacklab waiver
-# Members may resign by written notice to memberadmin@hacklab.to, or by not paying dues.
-# Upon resignation, members will be removed from the access list for the door, and unsubscribed from the member email list.  They may remain on the discussion list if they so choose.
-## Former members will have three months to remove their belongings from the premises. If, after three months, the belongings have not been removed the belongings shall become property of the organization.
-# A majority of the board can vote to suspend the membership of a member, at which time their access to the space will also be suspended.
-# In order for the suspension to be lifted, the suspended member must go through the same vetting process as occurs on acceptance of a new member.
+## ensuring that they are subscribed to the members-announce email list.
+## ensuring they have signed a copy of the current version of the Hacklab waiver.
+## paying dues as set by the board.
+
+# Members may resign by written notice to memberadmin@hacklab.to
+## Former members will have three months to remove their belongings from the premises. If, after three months, the belongings have not been removed, the belongings shall become property of the organization.
+
+# A majority of the board can vote to revoke the membership of a member.
+## A member who has had their membership revoked can only reapply at the board’s discretion. The period for which they are barred from reapplication will be defined in the letter from the board to the member upon revocation of membership.
+## The board is responsible for informing the active members about those persons who have had their membership revoked, including communicating the length of time that they have been barred from reapplying. 
+
 # The organization reserves the right to limit membership based on the capacity of the space.
 
 == Committees ==
@@ -77,26 +86,33 @@
 
 == Meetings ==
 
+===Member Meetings===
 # Regular meetings of the membership shall be held on at least a quarterly basis to keep the members involved and informed in ongoing decisions involving the corporation.
 ## Announcements regarding changes to meeting date, time, or venue shall be made to the entire membership with a minimum of 48 hours notice.
+
+===Board Meetings===
 # Meetings of the Board shall be held on a monthly basis and additionally as requested by two or more members of the board.
 ## Announcements regarding changes to meeting date, time, or venue shall be made to the entire board with a minimum of 48 hours notice.
 ## The agenda for board meetings shall be distributed 48 hours in advance.
-## Decisions will be by made by general consensus confirmed by vote.
+## Decisions will be made by general consensus confirmed by vote.
 ## Quorum is a majority of the board.
 ## In absence of a quorum, no formal action shall be taken except to adjourn the meeting to a subsequent date.
-# Annual General Meetings of the Membership exist in order to comply with legal requirements, elect new board members and auditors, go over the financial records of the organization, update the bylaws, and make any other decisions which require the input of most of the membership.
+## Members are allowed to attend board meetings, with the exception of “in-camera’’ sections.
+
+===Annual Meetings===
+# Annual Meetings (formerly known as Annual General Meetings, or AGMs) of the Membership exist in order to comply with legal requirements, go over the financial records of the organization, update the bylaws, and make any other decisions which require the input of most of the membership.
 ## Notice of the meeting will be posted in the Lab and sent to the entire membership with a minimum of thirty days notice.
 ## The agenda for the meeting will be distributed to the membership 48 hours in advance, including any specific amendments proposed to the bylaws.
 ## If a member misses the meeting despite the best efforts of the board to give notice of the meeting, this shall not invalidate the results of the meeting.
-## Decisions will be by made by general consensus confirmed by vote of the members present at an annual general meeting or speical meeting, where the agenda for the meeting will be distributed to the membership 48 hours in advance, including any specific amendments proposed to the bylaws.
-# Special General Meetings of the Membership are subject to the same provisions as the Annual General Meeting and may be held at any time when called for by the Chair or a majority of Board members.
+## Decisions will be made by general consensus confirmed by vote of the members present at an annual meeting or special meeting, where the agenda for the meeting will be distributed to the membership 48 hours in advance, including any specific amendments proposed to the bylaws.
+# Special General Meetings of the Membership are subject to the same provisions as the Annual Meeting and may be held at any time when called for by the Board Chair or a majority of Board members.
+# Quorum for any meeting is specifically defined as the number of members who are present, in-person or by proxy, but not less than 3 members.
 
 == Auditors ==
 
 # The first auditor will be appointed by the directors.
-# At each annual general meeting the members must appoint an auditor to hold office until the auditor is re-elected or a successor is elected at the next annual general meeting.
-# The Board shall appoint an auditor if the one elected by the board resign or is removed.
+# At each annual meeting the members must appoint an auditor to hold office until the auditor is re-elected or a successor is elected at the next annual meeting.
+# The Board shall appoint an auditor if the one elected by the board resigns or is removed.
 # An auditor may be removed by ordinary resolution. 
 # An auditor must be promptly informed in writing of the auditor’s appointment or removal. 
 # A director or employee of the corporation must not be its auditor.
@@ -104,7 +120,7 @@
 
 == Conflict of Interest ==
 
-# Any member of the board who has a financial, personal, or official interest in, or conflict (or appearance of a conflict) with any matter pending before the Board, of such nature that it prevents or may prevent that member from acting on the matter in an impartial manner, will offer to the Board to voluntarily excuse him/herself and will vacate his seat and refrain from discussion and voting on said item.
+# Any member of the board who has a financial, personal, or official interest in, or conflict (or appearance of a conflict) with any matter pending before the Board, of such nature that it prevents or may prevent that member from acting on the matter in an impartial manner, will offer to the Board to voluntarily excuse themself and will vacate their seat and refrain from discussion and voting on said item.
 
 == Fiscal Policies ==
 
@@ -112,6 +128,8 @@
 
 == Amendments ==
 
-# These by-laws may be amended by a two-third vote of members present at any Annual or Special member meeting and provide a copy of the proposed amendmend(s) are provided to each member with the agenda for the meeting.
+# These by-laws may be amended by a two-third vote of members present at any Annual or Special member meeting, given that a copy of the proposed amendment(s) are provided to each member with the agenda for the meeting.
+
+Amendment added 2010-06-20, last updated 2013-05-29: [https://knowledge.hacklab.to/wiki/Anti-Harassment_Policy Anti-Harassment Policy]
 
 [[category: Governance]]
