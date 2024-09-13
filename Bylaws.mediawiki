@@ -66,7 +66,7 @@
 ## A storage bin, shelf, or other area assigned to them
 ## The right to store a reasonable amount of equipment at the space, subject to the conditions laid out in the most recent revision of the Equipment Policy on the wiki, as approved by ordinary resolution of the members
 
-# Members have as responsibilities:
+# Members have responsibilities:
 ## ensuring that they are subscribed to the members-announce email list.
 ## ensuring they have signed a copy of the current version of the Hacklab waiver.
 ## paying dues as set by the board.
