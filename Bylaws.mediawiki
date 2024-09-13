@@ -70,8 +70,19 @@
 ## ensuring that they are subscribed to the members-announce email list.
 ## ensuring they have signed a copy of the current version of the Hacklab waiver.
 ## paying dues as set by the board.
+## leaving the space as clean as or better than the member finds it after each visit.
+## reporting damage or problems with the equipment or space to the area steward, or the Board if no steward is available, as soon as possible.
 
-# Members may resign by written notice to memberadmin@hacklab.to
+# Members who fail to meet their responsibilities as laid out in the by-laws can face the following consequences:
+## Members will receive at least three (3) written warnings by the email provided for the members-announce list for infractions.
+### Exceptions to this will occur if the failure to follow these responsibilities if exceptionally dangerous or life-threatening, as determined by a vote of the Board.
+## After three (3) written warnings, the Board may choose to take further action, ommunicated in writing, including:
+### Further written warnings if the behaviour continues.
+### Suspension of the member's privilege to use a particular area or equipment for a specified period of time.
+### Revocation of membership.
+
+# Members must resign by written notice to memberadmin@hacklab.to
+## Members are responsible for paying dues until the date a written request to resign is received.
 ## Former members will have three months to remove their belongings from the premises. If, after three months, the belongings have not been removed, the belongings shall become property of the organization.
 
 # A majority of the board can vote to revoke the membership of a member.
