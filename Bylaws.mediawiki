@@ -88,7 +88,7 @@ Hacklab operates under a general principle of "all members are equal owners of t
 # Don't hurt yourself.
 
 === What to do before using equipment ===
-# Don’t use anything without signing the waver
+# Don’t use anything without signing the waiver
 # If it can dismember you (or poison you, or otherwise harm you significantly) please don’t use it if you don’t know how
 # If you don’t know how to use it, ask around the membership for help. 
 ## Someone brought this equipment in, so someone (if they’re still a member) knows how to use it
