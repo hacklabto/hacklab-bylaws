@@ -98,7 +98,7 @@ Hacklab operates under a general principle of "all members are equal owners of t
 # If you want to donate something to the lab, make sure someone (ideally you) is responsible for intaking it. 
 # Whoever takes responsibility for new equipment must:
 ## Find a home for it in the lab to keep it permanently. 
-## The home for the new tool should not be on in any of the shared workspaces (hot-desks, work-benches in the shop).
+## The home for the new tool should not be on any of the shared workspaces (hot-desks, work-benches in the shop).
 # Ideally, also add documentation for it to the public wiki (knowledge.hacklab.to).
 
 === Taking equipment from HackLab to borrow and use outside HackLab ===
