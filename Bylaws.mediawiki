@@ -64,7 +64,7 @@
 # In addition to the rights granted by the Ontario Not-for-profit Corporations Act (ONCA), members have as privileges:
 ## Physical access to the Lab by whatever means are currently in use
 ## A storage bin, shelf, or other area assigned to them
-## The right to store a reasonable amount of equipment at the space, subject to the conditions laid out in the most recent revision of the Equipment Policy on the wiki, as approved by ordinary resolution of the members
+## The right to store a reasonable amount of equipment at the space, subject to the conditions laid out in the most recent revision of the [[Equipment_Policy|Equipment Policy on the wiki]], as approved by ordinary resolution of the members
 
 # Members have as responsibilities:
 ## ensuring that they are subscribed to the members-announce email list.
@@ -79,31 +79,6 @@
 ## The board is responsible for informing the active members about those persons who have had their membership revoked, including communicating the length of time that they have been barred from reapplying. 
 
 # The organization reserves the right to limit membership based on the capacity of the space.
-
-== Equipment ==
-
-Hacklab operates under a general principle of "all members are equal owners of the space". This principle applies to the tools and materials inside of hacklab as well. Unless something has been labeled as property of a specific member, please consider the tool yours. But remember that it is not just yours, it belongs to everybody. Pursuant to this explanation, the following rules can be summarized as:
-
-# Don't use tools in hacklab in a way that will prevent other members from using them. In other words: don't hog or break stuff.
-# Don't hurt yourself.
-
-=== What to do before using equipment ===
-# Don’t use anything without signing the waiver
-# If it can dismember you (or poison you, or otherwise harm you significantly) please don’t use it if you don’t know how
-# If you don’t know how to use it, ask around the membership for help. 
-## Someone brought this equipment in, so someone (if they’re still a member) knows how to use it
-## There may be documentation for it on the public or internal wiki. Check the tool for a QR code. It may link you to a wiki page with instructions.
-
-=== Bringing in New Equipment ===
-# If you want to donate something to the lab, make sure someone (ideally you) is responsible for intaking it. 
-# Whoever takes responsibility for new equipment must:
-## Find a home for it in the lab to keep it permanently. 
-## The home for the new tool should not be on any of the shared workspaces (hot-desks, work-benches in the shop, the floor).
-# Ideally, also add documentation for it to the public wiki (knowledge.hacklab.to).
-
-=== Taking equipment from HackLab to borrow and use outside HackLab ===
-# If you want to take something out of the lab, message the relevant members communications channel. Let people know first what you're taking and give a date when it will be returned. 
-# There are no time limits on how long you can borrow something, or limits on extensions. Just keep it within reason (don't hog the tool), and keep people up to date if you're holding it for longer than you originally said. 
 
 == Committees ==
 
@@ -156,5 +131,7 @@ Hacklab operates under a general principle of "all members are equal owners of t
 # These by-laws may be amended by a two-third vote of members present at any Annual or Special member meeting, given that a copy of the proposed amendment(s) are provided to each member with the agenda for the meeting.
 
 Amendment added 2010-06-20, last updated 2013-05-29: [https://knowledge.hacklab.to/wiki/Anti-Harassment_Policy Anti-Harassment Policy]
+
+Amendment added 2024-09-29: [https://knowledge.hacklab.to/wiki/Equipment_Policy]
 
 [[category: Governance]]
