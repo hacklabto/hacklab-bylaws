@@ -2,7 +2,7 @@ This policy has been adopted by the Hacklab members and adopted into the bylaws 
 
 == Equipment ==
 
-This policy can be summarized as:
+'''This policy can be summarized as:'''
 
 # Don't use tools in hacklab in a way that will prevent other members from using them. In other words: don't hog or break stuff.
 # Don't hurt yourself.
