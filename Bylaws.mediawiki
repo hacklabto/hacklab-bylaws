@@ -103,8 +103,6 @@ Hacklab operates under a general principle of "all members are equal owners of t
 
 === Taking equipment from HackLab to borrow and use outside HackLab ===
 # if you want to take something out of the lab, let people know first what you’re taking by messaging a relevant members communications channel. Also give a date for when it will be returned. 
-## For example, if you are taking something out of the shop, you should notify members in the shop communications channel, which  as of this writing is the "HackLab shop Telegram group".
-## For example, if you are taking something from the electronics bench, you should notify members in the electronics communications channel, which  as of this writing is the "HackLab Members Telegram group electronics channel".
 # There are no time limits on how long you can borrow something, or limits on extensions. Just keep it within reason (don't hog the tool), and try to keep people up to date if you're holding it for longer than you originally thought.
 
 == Committees ==
