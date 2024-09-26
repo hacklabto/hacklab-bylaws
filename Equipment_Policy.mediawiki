@@ -2,10 +2,12 @@ This policy has been adopted by the Hacklab members and adopted into the bylaws 
 
 == Equipment ==
 
-Hacklab operates under a general principle of "all members are equal owners of the space". This principle applies to the tools and materials inside of hacklab as well. Unless something has been labeled as property of a specific member, please consider the tool yours. But remember that it is not just yours, it belongs to everybody. Pursuant to this explanation, the following rules can be summarized as:
+This policy can be summarized as:
 
 # Don't use tools in hacklab in a way that will prevent other members from using them. In other words: don't hog or break stuff.
 # Don't hurt yourself.
+
+Hacklab operates under a general principle of "all members are equal owners of the space". This principle applies to the tools and materials inside of hacklab as well. Unless something has been labeled as property of a specific member, please consider the tool yours. But remember that it is not just yours, it belongs to everybody. 
 
 === What to do before using equipment ===
 # Don’t use anything without signing the waiver
