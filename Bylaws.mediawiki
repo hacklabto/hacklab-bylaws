@@ -28,7 +28,7 @@
 ## if they are found by a court to be of unsound mind;
 ## on death.
 
-# Members of the Board shall see that all necessary records of the corporation required by the by-laws of the corporation or by any applicable statute or law are regularly and properly kept. 
+# Members of the Board shall see that all necessary records of the corporation required by the by-laws of the corporation or by any applicable statute or law are regularly and properly kept.
 # If a vacancy on the Board occurs within 3 months of a general meeting, no by-election is necessary, otherwise one will be held within one month of the seat being vacated.
 # The Board may take action on urgent items without a meeting given unanimous signed consent.
 
@@ -36,7 +36,7 @@
 
 # The officers of the corporation are members who are responsible for specific duties relating to the running of the corporation.  They are appointed by and accountable to the board of directors.
 # The officers of the corporation shall consist of a Board Chair, Secretary, and Treasurer nominated by the Board, as well as any other officers determined by the Board.
-## Board Chair: chairs board meetings, and appoints people to non-officer roles 
+## Board Chair: chairs board meetings, and appoints people to non-officer roles
 ## Secretary: takes minutes at meetings, administers internal communication, and informs members of Hacklab news
 ## Treasurer: keeps record of the organization's budget, accepts membership fees, pays bills, files taxes, prepares financial reports to the board at least monthly, and maintains the list of active members
 
@@ -87,13 +87,13 @@
 
 # A majority of the board can vote to revoke the membership of a member.
 ## A member who has had their membership revoked can only reapply at the board’s discretion. The period for which they are barred from reapplication will be defined in the letter from the board to the member upon revocation of membership.
-## The board is responsible for informing the active members about those persons who have had their membership revoked, including communicating the length of time that they have been barred from reapplying. 
+## The board is responsible for informing the active members about those persons who have had their membership revoked, including communicating the length of time that they have been barred from reapplying.
 
 # The organization reserves the right to limit membership based on the capacity of the space.
 
 == Committees ==
 
-# The Board may appoint standing and ad hoc committees as needed. 
+# The Board may appoint standing and ad hoc committees as needed.
 
 == Meetings ==
 
@@ -124,8 +124,8 @@
 # The first auditor will be appointed by the directors.
 # At each annual meeting the members must appoint an auditor to hold office until the auditor is re-elected or a successor is elected at the next annual meeting.
 # The Board shall appoint an auditor if the one elected by the board resigns or is removed.
-# An auditor may be removed by ordinary resolution. 
-# An auditor must be promptly informed in writing of the auditor’s appointment or removal. 
+# An auditor may be removed by ordinary resolution.
+# An auditor must be promptly informed in writing of the auditor’s appointment or removal.
 # A director or employee of the corporation must not be its auditor.
 # The auditor may attend general meetings.
 
