@@ -28,7 +28,7 @@
 ## if they are found by a court to be of unsound mind;
 ## on death.
 
-# Members of the Board shall see that all necessary records of the corporation required by the by-laws of the corporation or by any applicable statute or law are regularly and properly kept. 
+# Members of the Board shall see that all necessary records of the corporation required by the by-laws of the corporation or by any applicable statute or law are regularly and properly kept.
 # If a vacancy on the Board occurs within 3 months of a general meeting, no by-election is necessary, otherwise one will be held within one month of the seat being vacated.
 # The Board may take action on urgent items without a meeting given unanimous signed consent.
 
@@ -36,7 +36,7 @@
 
 # The officers of the corporation are members who are responsible for specific duties relating to the running of the corporation.  They are appointed by and accountable to the board of directors.
 # The officers of the corporation shall consist of a Board Chair, Secretary, and Treasurer nominated by the Board, as well as any other officers determined by the Board.
-## Board Chair: chairs board meetings, and appoints people to non-officer roles 
+## Board Chair: chairs board meetings, and appoints people to non-officer roles
 ## Secretary: takes minutes at meetings, administers internal communication, and informs members of Hacklab news
 ## Treasurer: keeps record of the organization's budget, accepts membership fees, pays bills, files taxes, prepares financial reports to the board at least monthly, and maintains the list of active members
 
@@ -67,33 +67,28 @@
 ## The right to store a reasonable amount of equipment at the space, subject to the conditions laid out in the most recent revision of the Equipment Policy on the wiki, as approved by ordinary resolution of the members
 
 # Members have as responsibilities:
-## ensuring that they are subscribed to the members-announce email list.
-## ensuring they have signed a copy of the current version of the Hacklab waiver.
-## paying dues as set by the board.
-## leaving the space as clean as or better than the member finds it after each visit.
-## reporting damage or problems with the equipment or space to the area steward, or the Board if no steward is available, as soon as possible.
-
-# Members who fail to meet their responsibilities as laid out in the by-laws can face the following consequences:
-## Members will receive at least three (3) written warnings by the email provided for the members-announce list for infractions.
-### Exceptions to this will occur if the failure to follow these responsibilities if exceptionally dangerous or life-threatening, as determined by a vote of the Board.
-## After three (3) written warnings, the Board may choose to take further action, ommunicated in writing, including:
-### Further written warnings if the behaviour continues.
-### Suspension of the member's privilege to use a particular area or equipment for a specified period of time.
-### Revocation of membership.
+## Ensuring that they are subscribed to the members-announce email list.
+## Ensuring they have signed a copy of the current version of the Hacklab waiver.
+## Paying dues as set by the board.
+## Leaving the space as clean as or better than they find it.
+## Reporting issues with the space, equipment, or resources to the appropriate steward or to the board.
 
 # Members must resign by written notice to memberadmin@hacklab.to
-## Members are responsible for paying dues until the date a written request to resign is received.
+## Members are responsible for paying dues until the date a request to resign is received.
 ## Former members will have three months to remove their belongings from the premises. If, after three months, the belongings have not been removed, the belongings shall become property of the organization.
 
-# A majority of the board can vote to revoke the membership of a member.
+# Members who fail to meet their responsibilities as laid out in the by-laws are encouraged to be guided or corrected by other members.
+# In the case where they repeatedly fail to meet these responsibilities the matter should be documented and brought before the board.
+# There the board may choose to suspend, fine, expel or refuse to re-admit the offending member, by a majority vote.
+# Action will be fair and reasonable as per the ONCA s51.3
 ## A member who has had their membership revoked can only reapply at the board’s discretion. The period for which they are barred from reapplication will be defined in the letter from the board to the member upon revocation of membership.
-## The board is responsible for informing the active members about those persons who have had their membership revoked, including communicating the length of time that they have been barred from reapplying. 
+## The board is responsible for informing the active members about those persons who have had their membership revoked, including communicating the length of time that they have been barred from reapplying.
 
 # The organization reserves the right to limit membership based on the capacity of the space.
 
 == Committees ==
 
-# The Board may appoint standing and ad hoc committees as needed. 
+# The Board may appoint standing and ad hoc committees as needed.
 
 == Meetings ==
 
@@ -124,8 +119,8 @@
 # The first auditor will be appointed by the directors.
 # At each annual meeting the members must appoint an auditor to hold office until the auditor is re-elected or a successor is elected at the next annual meeting.
 # The Board shall appoint an auditor if the one elected by the board resigns or is removed.
-# An auditor may be removed by ordinary resolution. 
-# An auditor must be promptly informed in writing of the auditor’s appointment or removal. 
+# An auditor may be removed by ordinary resolution.
+# An auditor must be promptly informed in writing of the auditor’s appointment or removal.
 # A director or employee of the corporation must not be its auditor.
 # The auditor may attend general meetings.
 
