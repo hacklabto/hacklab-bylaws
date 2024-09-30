@@ -64,7 +64,7 @@
 # In addition to the rights granted by the Ontario Not-for-profit Corporations Act (ONCA), members have as privileges:
 ## Physical access to the Lab by whatever means are currently in use
 ## A storage bin, shelf, or other area assigned to them
-## The right to store a reasonable amount of equipment at the space, subject to the conditions laid out in the most recent revision of the Equipment Policy on the wiki, as approved by ordinary resolution of the members
+## The right to store a reasonable amount of equipment at the space, subject to the conditions laid out in the most recent revision of the [[Equipment_Policy|Equipment Policy on the wiki]], as approved by ordinary resolution of the members
 
 # Members have as responsibilities:
 ## ensuring that they are subscribed to the members-announce email list.
@@ -131,5 +131,7 @@
 # These by-laws may be amended by a two-third vote of members present at any Annual or Special member meeting, given that a copy of the proposed amendment(s) are provided to each member with the agenda for the meeting.
 
 Amendment added 2010-06-20, last updated 2013-05-29: [https://knowledge.hacklab.to/wiki/Anti-Harassment_Policy Anti-Harassment Policy]
+
+Amendment added 2024-09-29: [https://knowledge.hacklab.to/wiki/Equipment_Policy]
 
 [[category: Governance]]

@@ -1,0 +1,23 @@
+This policy has been adopted by the Hacklab members and adopted into the bylaws in the AGM on [[Meeting-2024-09-29-Members-AGM|2024-09-29]].
+
+== Equipment ==
+
+'''This policy can be summarized as:'''
+
+# Don't use tools in hacklab in a way that will prevent other members from using them. In other words: don't hog or break stuff.
+# Don't hurt yourself.
+
+Hacklab operates under a general principle of "all members are equal owners of the space". This principle applies to the tools and materials inside of hacklab as well. Unless something has been labeled as property of a specific member, please consider the tool yours. But remember that it is not just yours, it belongs to everybody. 
+
+=== Bringing in New Equipment ===
+# If you want to donate something to the lab, make sure someone (ideally you) is responsible for intaking it. 
+# Whoever takes responsibility for new equipment must:
+## Find a home for it in the lab to keep it permanently. 
+## The home for the new tool should not be on any of the shared workspaces (hot-desks, work-benches in the shop, the floor).
+# Ideally, also add documentation for it to the public wiki (knowledge.hacklab.to).
+
+=== Taking equipment from HackLab to borrow and use outside HackLab ===
+# If you want to take something out of the lab, message the relevant members communications channel. Let people know first what you're taking and give a date when it will be returned. 
+# There are no time limits on how long you can borrow something, or limits on extensions. Just keep it within reason (don't hog the tool), and keep people up to date if you're holding it for longer than you originally said. 
+
+[[category: Members]][[category: Equipment]]
