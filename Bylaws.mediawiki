@@ -70,6 +70,9 @@
 ## ensuring that they are subscribed to the members-announce email list.
 ## ensuring they have signed a copy of the current version of the Hacklab waiver.
 ## paying dues as set by the board.
+### A member will be dememberized if they are at least three months in arears on their dues and have received at least two notices from the board about their arears.
+#### Members can submit to the board a written request for an extension for their dues repayment. 
+#### At their discretion, the board can grant written requests for an extension of dues arears repayment.
 
 # Members may resign by written notice to memberadmin@hacklab.to
 ## Former members will have three months to remove their belongings from the premises. If, after three months, the belongings have not been removed, the belongings shall become property of the organization.
